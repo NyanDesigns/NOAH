@@ -3,7 +3,7 @@ Parametric modeling made easy.
 
 # INSTALLATION
 
-1 | Download "noah.setup.exe" from "master/v.1.0/noah.setup.exe".
+1 | Download "noah.setup.exe" from above - "master/v.1.0/noah.setup.exe".
 
 2 | Run "noah.setup.exe" and install for your version of Rhino 3D.
 "full installation mode" includes 1) NOAH 2) External Plugins 3) Extras 
