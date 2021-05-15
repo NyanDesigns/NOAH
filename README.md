@@ -38,11 +38,11 @@ __1__ | Download [noah.setup.exe](https://github.com/NyanDesigns/NOAH/blob/main/
 > ... If flagged by `antivirus`, right-click and choose to __KEEP__ file and download to PC.
 
 __2__ | Run [noah.setup.exe](https://github.com/NyanDesigns/NOAH/blob/main/v.1.0/noah-setup.exe) and choose installation for your version of Rhino 3D.
-> - `full installation mode` includes 1) __NOAH__ 2) __External Plugins__ 3) __Extras__ (extracted to `"Desktop\NOAH EXTRAS\"`)
+> - `full installation` mode includes 1) __NOAH__ 2) __External Plugins__ 3) __Extras__ (extracted to `"Desktop\NOAH EXTRAS\"`)
 > - `compact installation` mode includes 1) __NOAH__
 
-__3__ | Install all __required__ plugins for grasshopper.
-> - For `full installation`, naviogate to EXTRAS folder `@ "Desktop\NOAH EXTRAS\"` and open __INSTALL.gh__. Download All missing plugins from package manager and close.
+__3__ | Install all __required plugins__ for grasshopper.
+> - For `full installation`, navigate to EXTRAS folder `@ "Desktop\NOAH EXTRAS\"` and open __INSTALL.gh__. Download All missing plugins from package manager and close.
 > - For `compact installation`, download and install all required and missing plugins mannually. Links above.
 
 __4__ | Open rhino and enable toolbar for NOAH from "Menu bar\Tools\Toolbarlayout". Import "N O A H.rui" from default path - "[AppData]\Roaming\McNeel\Rhinoceros\7.0\UI", and activate the toolbar.
