@@ -7,8 +7,6 @@
 
 PROJECT NOAH is an open-source grasshopper-based plugin for architectural element automation, i.e. stairs, during the conceptual design phase.
 
-- 🔭 I’m currently working on this page. 
-
 
 ---
 
