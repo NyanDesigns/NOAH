@@ -42,6 +42,10 @@ __5__ | Click on NOAH button and have fun.
 
 ---
 
+### CREDITS
+
+__Author__ | NYAN LIN MYAT @ Nyan | Designs
+
 ### SPECIAL THANKS
 - __David Rutten__ [(Holy Sprit)](https://www.youtube.com/user/DavidMTRutten)
 - __Andrew Heumann__ [(The Goat)](https://www.youtube.com/channel/UCxBNmThLKmkzCcJLtgJBqYg)
