@@ -14,16 +14,17 @@ PROJECT NOAH is an open-source grasshopper-based plugin for architectural elemen
 
 - OS | __WINDOWS__
 - [RHINO](https://www.rhino3d.com/download/) | VERSION __6__ or __7__
-- RHINO PLUGINS | [GRASSHOPPER](https://www.grasshopper3d.com/page/download-1) (included with RRHINO __6__ & __7__)
+- RHINO PLUGINS | 
+  - [GRASSHOPPER](https://www.grasshopper3d.com/page/download-1) (included with RRHINO __6__ & __7__)
 - GRASSHOPPER PLUGINS | 
-  - __1)__[Human UI.v.0.8.1.3](https://www.food4rhino.com/app/human-ui) 
-  - __2)__[EleFront.v.0.4.1](https://www.food4rhino.com/app/elefront) 
-  - __3)__[Human.v.1.7.2](https://www.food4rhino.com/app/human) 
-  - __4)__[Lunchbox.v.2020.6.30](https://www.food4rhino.com/app/lunchbox) 
-  - __5)__[Pufferfish.v.2.9](https://www.food4rhino.com/app/pufferfish) 
-  - __6)__[MetaHopper.v.1.2.4](https://www.food4rhino.com/app/metahopper) 
-  - __7)__[Weaverbird.v.0.9.0.1](https://www.giuliopiacentino.com/weaverbird/) 
-  - __8)__[TT Toolbox.v.1](https://www.food4rhino.com/app/tt-toolbox)
+  - __1)__ [Human UI.v.0.8.1.3](https://www.food4rhino.com/app/human-ui) 
+  - __2)__ [EleFront.v.0.4.1](https://www.food4rhino.com/app/elefront) 
+  - __3)__ [Human.v.1.7.2](https://www.food4rhino.com/app/human) 
+  - __4)__ [Lunchbox.v.2020.6.30](https://www.food4rhino.com/app/lunchbox) 
+  - __5)__ [Pufferfish.v.2.9](https://www.food4rhino.com/app/pufferfish) 
+  - __6)__ [MetaHopper.v.1.2.4](https://www.food4rhino.com/app/metahopper) 
+  - __7)__ [Weaverbird.v.0.9.0.1](https://www.giuliopiacentino.com/weaverbird/) 
+  - __8)__ [TT Toolbox.v.1](https://www.food4rhino.com/app/tt-toolbox)
 
 ### RELEASES
 
@@ -34,13 +35,15 @@ PROJECT NOAH is an open-source grasshopper-based plugin for architectural elemen
 ### INSTALLATION
 
 __1__ | Download [noah.setup.exe](https://github.com/NyanDesigns/NOAH/blob/main/v.1.0/noah-setup.exe).
-> ... If flagged by `antivirus`, right-click and choose to __KEEP__ file and download.*separate paragraph*
+> ... If flagged by `antivirus`, right-click and choose to __KEEP__ file and download to PC.
 
 __2__ | Run [noah.setup.exe](https://github.com/NyanDesigns/NOAH/blob/main/v.1.0/noah-setup.exe) and choose installation for your version of Rhino 3D.
-> - "full installation mode" includes 1) NOAH 2) External Plugins 3) Extras 
-> - "compact installation" mode includes 1) NOAH
+> - `full installation mode` includes 1) __NOAH__ 2) __External Plugins__ 3) __Extras__ (extracted to `"Desktop\NOAH EXTRAS\"`)
+> - `compact installation` mode includes 1) __NOAH__
 
-__3__ | If "Extras" were installed, open INSTALL.gh from "[desktop]\NOAH EXTRAS\INSTALL.gh" to install additional external plugins from package installer online. If unsuccessful, the missing plugins would need to be installed manually.
+__3__ | Install all __required__ plugins for grasshopper.
+> - For `full installation`, naviogate to EXTRAS folder `@ "Desktop\NOAH EXTRAS\"` and open __INSTALL.gh__. Download All missing plugins from package manager and close.
+> - For `compact installation`, download and install all required and missing plugins mannually. Links above.
 
 __4__ | Open rhino and enable toolbar for NOAH from "Menu bar\Tools\Toolbarlayout". Import "N O A H.rui" from default path - "[AppData]\Roaming\McNeel\Rhinoceros\7.0\UI", and activate the toolbar.
 
@@ -50,7 +53,7 @@ __5__ | Click on NOAH button and have fun.
 
 ### CREDITS
 
-__Author__ | NYAN LIN MYAT @ Nyan | Designs
+__Author__ | NYAN LIN MYAT `@ Nyan | Designs`
 
 ### SPECIAL THANKS
 - __David Rutten__ [(Holy Sprit)](https://www.youtube.com/user/DavidMTRutten)
@@ -63,3 +66,9 @@ __Author__ | NYAN LIN MYAT @ Nyan | Designs
 - [__Paramarch__](https://www.youtube.com/channel/UCk-taU3sDSSyM6qehAJmTRg)
 - [__BORSH__](http://borsh.pro/)
 - __AND MANY OTHER CREATORS ON YOUTUBE AND RHINOFORUMS.__
+
+---
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/NyanDesigns)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/@nyan_designs/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://projectnoah.webflow.io/)  
+
+
