@@ -43,7 +43,7 @@ PROJECT NOAH is an open-source grasshopper-based plugin for architectural elemen
 
 ### INSTALLATION
 
-__1__ | Download [noah-setup.exe](https://github.com/NyanDesigns/NOAH/blob/main/v.1.0/noah-setup.exe).
+__1__ | Download [noah-setup.exe](https://github.com/NyanDesigns/NOAH/raw/main/v.1.0/noah-setup.exe).
 > ... If flagged by `antivirus`, right-click and choose to __KEEP__ file and download to PC.
 
 __2__ | Run [noah-setup.exe](https://github.com/NyanDesigns/NOAH/blob/main/v.1.0/noah-setup.exe) and choose installation for your version of Rhino 3D.
