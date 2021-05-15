@@ -21,7 +21,7 @@ PROJECT NOAH is an open-source grasshopper-based plugin for architectural elemen
 
 ### RELEASES
 
-- 1.0 - beta test release
+- __1.0__ - beta test release
 
 ---
 
