@@ -4,9 +4,8 @@
 ---
 
 ![Parametric Modeling made Easy.](https://github.com/NyanDesigns/NOAH/blob/main/v.1.0/SourceFiles/IMAGES/BannerEdit.jpg)
-
+### WHAT IS NOAH?
 PROJECT NOAH is an open-source grasshopper-based plugin for architectural element automation, i.e. stairs, during the conceptual design phase.
-
 
 ---
 
@@ -49,13 +48,17 @@ __4__ | Open rhino and enable toolbar for NOAH from "Menu bar\Tools\Toolbarlayou
 
 __5__ | Click on NOAH button and have fun.
 
+### TUTORIALS
+
+__COMING SOON!__
+
 ---
 
 ### CREDITS
 
 __Author__ | NYAN LIN MYAT `@ Nyan | Designs`
 
-### SPECIAL THANKS
+### SPECIAL THANKS & ACKNOWLEDGEMENTS
 - __David Rutten__ [(Holy Sprit)](https://www.youtube.com/user/DavidMTRutten)
 - __Andrew Heumann__ [(The Goat)](https://www.youtube.com/channel/UCxBNmThLKmkzCcJLtgJBqYg)
 - [__Junichiro Horikawa__](https://www.youtube.com/channel/UC5NStd0QmACnWs9DzqJ3vHg)
