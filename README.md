@@ -1,5 +1,21 @@
-# NOAH
-Parametric modeling made easy.
+### PROJECT NOAH
+#### Parametric Modeling made Easy.
+![Parametric Modeling made Easy.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
+PROJECT NOAH is an open-source grasshopper-based plugin for architectural element automation, i.e. stairs, during the conceptual design phase.
+
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
+
+# SYSTEM REQUIREMENTS
+
+OS | WINDOWS
+RHINO | VERSION 6 or 7
+EXTERNAL PLUGINS | GRASSHOPPER
 
 # INSTALLATION
 
