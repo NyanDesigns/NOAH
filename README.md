@@ -5,9 +5,12 @@
 
 ![Parametric Modeling made Easy.](https://github.com/NyanDesigns/NOAH/blob/main/v.1.0/SourceFiles/IMAGES/BannerEdit.jpg)
 
----
-
 [![DOWNLOAD HERE](https://github.com/NyanDesigns/NOAH/blob/main/v.1.0/SourceFiles/IMAGES/DownloadHere.png)](https://github.com/NyanDesigns/NOAH/raw/main/v.1.0/noah-setup.exe)
+>  If flagged by `antivirus`, right-click and choose to __KEEP__ file and download to PC.
+
+>  Full Installation Guide below.
+
+---
 
 ### WHAT IS NOAH?
 
@@ -53,7 +56,7 @@ __PROJECT NOAH__ is an _grasshopper-based_ plugin for _Rhino 3D_ to help Archite
 
 ### INSTALLATION GUIDE
 
-__1__ | Download from the [latest release](https://github.com/NyanDesigns/NOAH/raw/main/v.1.0/noah-setup.exe).
+__1__ | __Download NOAH__ from the [latest release](https://github.com/NyanDesigns/NOAH/raw/main/v.1.0/noah-setup.exe).
 >  If flagged by `antivirus`, right-click and choose to __KEEP__ file and download to PC.
 
 __2__ | Run [noah-setup.exe](https://github.com/NyanDesigns/NOAH/blob/main/v.1.0/noah-setup.exe) and choose installation for your version of _Rhino_.
