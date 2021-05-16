@@ -5,24 +5,27 @@
 
 ![Parametric Modeling made Easy.](https://github.com/NyanDesigns/NOAH/blob/main/v.1.0/SourceFiles/IMAGES/BannerEdit.jpg)
 
+---
+
 [![DOWNLOAD HERE](https://github.com/NyanDesigns/NOAH/blob/main/v.1.0/SourceFiles/IMAGES/DownloadHere.png)](https://github.com/NyanDesigns/NOAH/raw/main/v.1.0/noah-setup.exe)
 
 ### WHAT IS NOAH?
 
 __PROJECT NOAH__ is an _grasshopper-based_ plugin for _Rhino 3D_ to help Architects, especially students, create a more __Dynamic and Efficient Conceptural Design Workflow__ via automation of Architectural Elements and Processes, _i.e. skip endlessly modeling railings_. __PROJECT NOAH__ is a __free__ and __open source__ project intended to 
-- __
-- __Encourage Begineers__ to __explore__ the annotated script, __tinker__ with functions, and use _NOAH_ as __reference__ for thier own script; learn from my mistakes.
-- __Help Advance Users__ intergate their workflow into _NOAH_ via using the interface system as a backbone framework to __add__ or __modify__ functions to create a more __personalized__ version of _NOAH_.
+- __Help designers efficiently transfer ideas__, from mind or paper sketches, and to _Rhino_ digital space without having to _modeling repetitive elements and performing repetitive commands_ and __dynamically explore more design options__ via modeling parametrically in _grasshopper_.
+- __Encourage Begineers__ to __explore__ the _annotated grasshopper script_, __tinker__ with the existing functions, and use _NOAH_ as __reference__ for thier own scripts; learn from my mistakes.
+- __Allow Advance Users__ intergate their workflow into _NOAH_ via using the interface system as a backbone framework to __add__ or __modify__ functions to create a more __personalized__ version of _NOAH_.
 
-### FUNCTIONS
+### WHAT CAN NOAH DO?
+#### LIST OF FUNCTIONS
 - __CONCEPTURAL__
-  - FORM
-  - PATTERN
+  - __FORM__ | Creating `massing forms` from `Rhino Curve and Surface` inputs and perform boolean operations.
+  - __PATTERN__ | `Place`, `Orient`, `Rotate` and `Scale` an `object geometry` onto a `target geometry`, manipulated by `attractor geometry`. 
 - __ARCHITECTURAL__
   - __FLOOR__  |  Create `Slab` from `Rhino Curve and Surface` inputs, with __3__ types of `Tile Patterns` and __3__ types of `Support`.
   - __WALL__  |  Create __5__ differenct types of `Walls` from `Rhino Curve and Surface` inputs.
-  - __STAIR__  |  Create `Stairs` from `Rhino Curve` inputs, with different `tread`, `rise` and `stringer` geometry.
   - __RAILING__  |  Create __5__ differenct types of `Railings` from `Rhino Curve` inputs.
+  - __STAIR__  |  Create `Stairs` from `Rhino Curve` inputs, with different `tread`, `rise` and `stringer` geometry.
   - __PIPE__ (experimental)  |  Create `Pipes` from `Rhino Curve` inputs.
 ---
 
@@ -50,7 +53,7 @@ __PROJECT NOAH__ is an _grasshopper-based_ plugin for _Rhino 3D_ to help Archite
 
 ### INSTALLATION GUIDE
 
-__1__ | Download [noah-setup.exe](https://github.com/NyanDesigns/NOAH/raw/main/v.1.0/noah-setup.exe).
+__1__ | Download from the [latest release](https://github.com/NyanDesigns/NOAH/raw/main/v.1.0/noah-setup.exe).
 >  If flagged by `antivirus`, right-click and choose to __KEEP__ file and download to PC.
 
 __2__ | Run [noah-setup.exe](https://github.com/NyanDesigns/NOAH/blob/main/v.1.0/noah-setup.exe) and choose installation for your version of _Rhino_.
