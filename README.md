@@ -8,7 +8,7 @@
 [![DOWNLOAD HERE](https://github.com/NyanDesigns/NOAH/blob/main/v.1.0/SourceFiles/IMAGES/DownloadHere.png)](https://github.com/NyanDesigns/NOAH/raw/main/v.1.0/noah-setup.exe)
 >  If flagged by `antivirus`, right-click and choose to __KEEP__ file and download to PC.
 
->  Full Installation Guide below.
+>  Full `Installation Guide` below.
 
 ---
 
