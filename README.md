@@ -19,11 +19,11 @@ __PROJECT NOAH__ is an _grasshopper-based_ plugin for _Rhino 3D_ to help Archite
   - FORM
   - PATTERN
 - __ARCHITECTURAL__
-  - FLOOR
-  - WALL
-  - STAIR
-  - RAILING
-  - PIPE (experimental)
+  - __FLOOR__  |  Create `Slab` from `Rhino Curve and Surface` inputs, with __3__ types of `Tile Patterns` and __3__ types of `Support`.
+  - __WALL__  |  Create __5__ differenct types of `Walls` from `Rhino Curve and Surface` inputs.
+  - __STAIR__  |  Create `Stairs` from `Rhino Curve` inputs, with different `tread`, `rise` and `stringer` geometry.
+  - __RAILING__  |  Create __5__ differenct types of `Railings` from `Rhino Curve` inputs.
+  - __PIPE__ (experimental)  |  Create `Pipes` from `Rhino Curve` inputs.
 ---
 
 ### SYSTEM REQUIREMENTS
@@ -48,7 +48,7 @@ __PROJECT NOAH__ is an _grasshopper-based_ plugin for _Rhino 3D_ to help Archite
 
 ---
 
-### INSTALLATION
+### INSTALLATION GUIDE
 
 __1__ | Download [noah-setup.exe](https://github.com/NyanDesigns/NOAH/raw/main/v.1.0/noah-setup.exe).
 >  If flagged by `antivirus`, right-click and choose to __KEEP__ file and download to PC.
