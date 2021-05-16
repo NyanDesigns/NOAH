@@ -31,6 +31,10 @@ __PROJECT NOAH__ is an _grasshopper-based_ plugin for _Rhino 3D_ to help Archite
   - __RAILING__  |  Create __5__ differenct types of `Railings` from `Rhino Curve` inputs.
   - __STAIR__  |  Create `Stairs` from `Rhino Curve` inputs, with different `tread`, `rise` and `stringer` geometry.
   - __PIPE__ (experimental)  |  Create `Pipes` from `Rhino Curve` inputs.
+ 
+<p align="center">
+  <img width="808" height="1080" src="https://github.com/NyanDesigns/NOAH/raw/main/v.1.0/SourceFiles/IMAGES/Demo.gif">
+</p>
 ---
 
 ### SYSTEM REQUIREMENTS
