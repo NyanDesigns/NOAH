@@ -7,10 +7,12 @@
 
 [![DOWNLOAD HERE](https://github.com/NyanDesigns/NOAH/blob/main/v.1.0/SourceFiles/IMAGES/DownloadHere.png)](https://github.com/NyanDesigns/NOAH/raw/main/v.1.0/noah-setup.exe)
 
-
-
 ### WHAT IS NOAH?
-PROJECT NOAH is an open-source grasshopper-based plugin for architectural element automation, i.e. stairs, during the conceptual design phase.
+
+__PROJECT NOAH__ is an _grasshopper-based_ plugin for _Rhino 3D_ to help Architects, especially students, create a more __Dynamic and Efficient Conceptural Design Workflow__ via automation of Architectural Elements and Processes, _i.e. skip endlessly modeling railings_. __PROJECT NOAH__ is a __free__ and __open source__ project intended to 
+- __
+- __Encourage Begineers__ to __explore__ the annotated script, __tinker__ with functions, and use _NOAH_ as __reference__ for thier own script; learn from my mistakes.
+- __Help Advance Users__ intergate their workflow into _NOAH_ via using the interface system as a backbone framework to __add__ or __modify__ functions to create a more __personalized__ version of _NOAH_.
 
 ### FUNCTIONS
 - __CONCEPTURAL__
@@ -49,19 +51,26 @@ PROJECT NOAH is an open-source grasshopper-based plugin for architectural elemen
 ### INSTALLATION
 
 __1__ | Download [noah-setup.exe](https://github.com/NyanDesigns/NOAH/raw/main/v.1.0/noah-setup.exe).
-> ... If flagged by `antivirus`, right-click and choose to __KEEP__ file and download to PC.
+>  If flagged by `antivirus`, right-click and choose to __KEEP__ file and download to PC.
 
-__2__ | Run [noah-setup.exe](https://github.com/NyanDesigns/NOAH/blob/main/v.1.0/noah-setup.exe) and choose installation for your version of Rhino 3D.
-> - `full installation` mode includes 1) __NOAH__ 2) __External Plugins__ 3) __Extras__ (extracted to `"Desktop\NOAH EXTRAS\"`)
+__2__ | Run [noah-setup.exe](https://github.com/NyanDesigns/NOAH/blob/main/v.1.0/noah-setup.exe) and choose installation for your version of _Rhino_.
+> - `full installation` mode includes 1) __NOAH__ 2) __External Plugins__ 3) __Extras__ (extracted to `"_"%Desktop%\NOAH EXTRAS\"_`)
 > - `compact installation` mode includes 1) __NOAH__
 
-__3__ | Install all __required plugins__ for grasshopper.
-> - For `full installation`, navigate to EXTRAS folder `@ "Desktop\NOAH EXTRAS\"` and open __INSTALL.gh__. Download All missing plugins from package manager and close.
+__3__ | Install all __required plugins__ for _grasshopper_.
+> - For `full installation`, navigate to EXTRAS folder `_"%Desktop%\NOAH EXTRAS\"_` and open __INSTALL.gh__. Download All missing plugins from package manager and close.
 > - For `compact installation`, download and install all required and missing plugins mannually. Links above.
 
-__4__ | Open rhino and enable toolbar for NOAH from "Menu bar\Tools\Toolbarlayout". Import "N O A H.rui" from default path - "[AppData]\Roaming\McNeel\Rhinoceros\7.0\UI", and activate the toolbar.
+__4__ | Load NOAH __toolbar__ into Rhino.
+> - After starting _Rhino_, navigate to top __"Menu bar> Tools (between Transform and Analyze)> Toolbar Layout.."__ 
+> - In Toolbar Options, navigate to top __"File__ (Followed by Edit, Tools)__> Open"__ and open __"N O A H.rui"__ from default path `_"%AppData%\Roaming\McNeel\Rhinoceros\7.0\UI"_`. :ballot_box_with_check:__Checkmark__ "N O A H" to load toolbar and "OK"/ "Save and exit" out of menu.
 
-__5__ | Click on NOAH button and have fun.
+_4.5_ | BONUS | Load NOAH __alias__ into Rhino for easier access to NOAH. `*Note: Need EXTRAS installed through full installation mode`.
+> - Type _rhino command_ __"Options"__ and navigate to __"Alias"__ on the Menu Left Side.
+> - Click on __"Import"__ and Navigate to NOAH EXTRAS folder, `_"%Desktop%\NOAH EXTRAS"_`, and select __"ALIAS.txt"__ and "OK"/ "Save and exit" out of menu.
+> - Type _NOAH_ in _Rhino_ command bar to start NOAH.
+
+__5__ | Start NOAH by clicking on the button, and have fun exploring!
 
 ### TUTORIALS
 
