@@ -5,7 +5,7 @@
 
 ![Parametric Modeling made Easy.](https://github.com/NyanDesigns/NOAH/blob/main/v.1.0/SourceFiles/IMAGES/BannerEdit.jpg)
 
-[![DOWNLOAD HERE](https://github.com/NyanDesigns/NOAH/raw/main/v.1.0/SourceFiles/IMAGES/DOWNLOAD.png)](https://github.com/NyanDesigns/NOAH/raw/main/v.1.0/noah-setup.exe)
+[![DOWNLOAD HERE](https://github.com/NyanDesigns/NOAH/blob/main/v.1.0/SourceFiles/IMAGES/DownloadHere.png)](https://github.com/NyanDesigns/NOAH/raw/main/v.1.0/noah-setup.exe)
 
 
 
